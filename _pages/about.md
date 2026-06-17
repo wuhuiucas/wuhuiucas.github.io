@@ -17,42 +17,51 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi! This is Hui Wu. I'm currently a Researcher at Baidu Inc., working closely with Dr. [Hengyi Cai](https://www.caihengyi.com/) on the  **mid-training** of large language models. I received my Ph.D. from the Aerospace Information Research Institute, Chinese Academy of Sciences in 2026.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research aims to understand and improve how foundation models acquire, retain, and apply knowledge throughout their training lifecycle. My current interests include:
 
+- **Mid-training**, with a focus on recovering and extending long-context capabilities of LLMs.
+- **Retrieval-Augmented Generation (RAG)**, in both unimodal and multimodal settings.
+- **Pre-training task design**, exploring objectives that yield stronger downstream generalization.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.04*: &nbsp;🎉🎉 My first-author paper is accepted to [ACL 2026](https://2026.aclweb.org/). See you in San Diego, USA!
+- *2025.11*: &nbsp;🎉🎉 One paper is accepted to [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/).
+- *2025.07*: &nbsp;🎉🎉 My first-author paper is accepted to [ACMMM 2025](https://acmmm2025.org/). See you in Dublin, Ireland!
+- *2025.04*: &nbsp;🎉🎉 One paper is accepted to [TGRS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36).
+- *2025.01*: &nbsp;🎉🎉 My first-author paper is accepted to [KBS](https://www.sciencedirect.com/journal/knowledge-based-systems).
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- **MoEC: A Memory-Routed Mixture-of-Experts Controller for Adaptive Minecraft Control** <br>
+  **Hui Wu**, Chao Xu, Jianghui Wang, Ziqiong Liu, Dong Li, Yiwei Dai, Emad Barsoum <br>
+  **ACL 2026** \| [paper coming soon]
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- **MARA: A Multimodal Adaptive Retrieval-Augmented Framework for Document Question Answering** <br>
+  **Hui Wu**, Haoquan Zhai, Yuchen Li, Hengyi Cai, Peirong Zhang, Yidan Zhang, Lei Wang, Yingyan Hou, Shuaiqiang Wang, Dawei Yin <br>
+  **ACM MM 2025** \| [paper](https://dl.acm.org/doi/pdf/10.1145/3746027.3755390)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- **CoT-driven Framework for Short Text Classification: Enhancing and Transferring Capabilities from Large to Smaller Model** <br>
+  **Hui Wu**, Yuanben Zhang, Zhonghe Han, Yingyan Hou, Lei Wang, Siye Liu, Qihang Gong, Yunping Ge <br>
+  **Knowledge-Based Systems** \| [paper](https://www.sciencedirect.com/science/article/pii/S0950705125001042)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- **Beyond Step Pruning: Information Theory Based Step-level Optimization for Self-Refining Large Language Models** <br>
+  Jinman Zhao, Erxue Min, **Hui Wu**, Ziheng Li, Zexu Sun, Hengyi Cai, Shuaiqiang Wang, Xu Chen, Gerald Penn <br>
+  **AAAI 2026** \| [paper](https://ojs.aaai.org/index.php/AAAI/article/view/40798)
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Language-guided Object Localization via Refined Spotting Enhancement in Remote Sensing Imagery** <br>
+  Peirong Zhang, Yidan Zhang, **Hui Wu**, Xiaoxuan Liu, Yingyan Hou, Lei Wang <br>
+  **IEEE Transactions on Geoscience and Remote Sensing** \| [paper](https://ieeexplore.ieee.org/abstract/document/10970013)
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026*, Beijing Municipal Outstanding Graduate 
+- *2025*, Merit Student,Chinese Academyof Sciences
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 – 2026.06*, **Ph.D.**, Aerospace Information Research Institute, Chinese Academy of Sciences
+- *2017.09 – 2021.06*, **B.S.**, University of Science and Technology Beijing
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 📚 Academic Services
+- *Conference Reviewer*: Neurips, ACL, EMNLP, ACMMM
+- *Journal Reviewer*: TGRS, KBS
