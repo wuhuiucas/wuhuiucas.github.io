@@ -26,6 +26,7 @@ My research aims to understand and improve how foundation models acquire, retain
 - **Pre-training task design**, exploring objectives that yield stronger downstream generalization.
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 Successfully passed my PhD defense! 🎓
 - *2026.04*: &nbsp;🎉🎉 My first-author paper is accepted to [ACL 2026](https://2026.aclweb.org/). See you in San Diego, USA!
 - *2025.11*: &nbsp;🎉🎉 One paper is accepted to [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/).
 - *2025.07*: &nbsp;🎉🎉 My first-author paper is accepted to [ACMMM 2025](https://acmmm2025.org/). See you in Dublin, Ireland!
