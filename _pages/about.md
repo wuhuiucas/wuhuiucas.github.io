@@ -37,7 +37,7 @@ My research aims to understand and improve how foundation models acquire, retain
 
 - **MoEC: A Memory-Routed Mixture-of-Experts Controller for Adaptive Minecraft Control** <br>
   **Hui Wu**, Chao Xu, Jianghui Wang, Ziqiong Liu, Dong Li, Yiwei Dai, Emad Barsoum <br>
-  **ACL 2026** \| [paper coming soon]
+  **ACL 2026** \| [paper](https://aclanthology.org/2026.acl-long.1027.pdf)
 
 - **MARA: A Multimodal Adaptive Retrieval-Augmented Framework for Document Question Answering** <br>
   **Hui Wu**, Haoquan Zhai, Yuchen Li, Hengyi Cai, Peirong Zhang, Yidan Zhang, Lei Wang, Yingyan Hou, Shuaiqiang Wang, Dawei Yin <br>
