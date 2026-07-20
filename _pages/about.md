@@ -17,13 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! This is Hui Wu. I'm currently a Researcher at Baidu Inc., working closely with Dr. [Hengyi Cai](https://www.caihengyi.com/) on the  **mid-training** of large language models. I received my Ph.D. from the Aerospace Information Research Institute, Chinese Academy of Sciences in 2026.
+Hi! I'm Hui Wu, a Senior Engineer at Baidu Inc. I received my Ph.D. from the Aerospace Information Research Institute, Chinese Academy of Sciences, in 2026. Prior to that, I earned my B.E. from the University of Science and Technology Beijing in 2021.
 
-My research aims to understand and improve how foundation models acquire, retain, and apply knowledge throughout their training lifecycle. My current interests include:
-
-- **Mid-training**, with a focus on recovering and extending long-context capabilities of LLMs.
-- **Retrieval-Augmented Generation (RAG)**, in both unimodal and multimodal settings.
-- **Pre-training task design**, exploring objectives that yield stronger downstream generalization.
+My current research focuses on **LLM mid-training**, with an emphasis on improving the efficiency and effectiveness of large language model training. I am interested in how training data and training strategies influence model capabilities. Previously, I worked on retrieval-augmented generation (RAG), embodied AI (e.g., Minecraft agents), and downstream NLP tasks.
 
 # 🔥 News
 - *2026.05*: &nbsp;🎉🎉 Successfully passed my PhD defense! 🎓
