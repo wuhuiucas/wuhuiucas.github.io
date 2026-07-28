@@ -21,6 +21,8 @@ Hi! I'm Hui Wu, a Senior Engineer at Baidu Inc. I received my Ph.D. from the Aer
 
 My current research focuses on **LLM mid-training**, with an emphasis on improving the efficiency and effectiveness of large language model training. I am interested in how training data and training strategies influence model capabilities. Previously, I worked on retrieval-augmented generation (RAG), embodied AI (e.g., Minecraft agents), and downstream NLP tasks.
 
+> 🔖 Collaboration. Open to research collaborations on related research topics. Welcome to reach out!
+
 # 🔥 News
 - *2026.05*: &nbsp;🎉🎉 Successfully passed my PhD defense! 🎓
 - *2026.04*: &nbsp;🎉🎉 My first-author paper is accepted to [ACL 2026](https://2026.aclweb.org/). See you in San Diego, USA!
