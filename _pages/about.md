@@ -24,6 +24,7 @@ My current research focuses on **LLM mid-training**, with an emphasis on improvi
 > 🔖 Collaboration. Open to research collaborations on related research topics. Welcome to reach out!
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 My first-author paper is accepted to [EMNLP 2026](https://2026.emnlp.org/). See you in Budapest, Hungary!
 - *2026.05*: &nbsp;🎉🎉 Successfully passed my PhD defense! 🎓
 - *2026.04*: &nbsp;🎉🎉 My first-author paper is accepted to [ACL 2026](https://2026.aclweb.org/). See you in San Diego, USA!
 - *2025.11*: &nbsp;🎉🎉 One paper is accepted to [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/).
@@ -36,6 +37,10 @@ My current research focuses on **LLM mid-training**, with an emphasis on improvi
 - **MoEC: A Memory-Routed Mixture-of-Experts Controller for Adaptive Minecraft Control** <br>
   **Hui Wu**, Chao Xu, Jianghui Wang, Ziqiong Liu, Dong Li, Yiwei Dai, Emad Barsoum <br>
   **ACL 2026** \| [paper](https://aclanthology.org/2026.acl-long.1027.pdf)
+
+- **Not All Preferences Deserve Gradients: Understanding Gradient Utility in Offline Reasoning Alignment** <br>
+  **Hui Wu**, Hengyi Cai, Jinman Zhao, Xinran Chen, Ziheng Li, Zhejun Zhao, Shuaiqiang Wang, Yuchen Li, Dawei Yin <br>
+  **EMNLP 2026** \| coming soon
 
 - **MARA: A Multimodal Adaptive Retrieval-Augmented Framework for Document Question Answering** <br>
   **Hui Wu**, Haoquan Zhai, Yuchen Li, Hengyi Cai, Peirong Zhang, Yidan Zhang, Lei Wang, Yingyan Hou, Shuaiqiang Wang, Dawei Yin <br>
