@@ -24,7 +24,7 @@ My current research focuses on **LLM mid-training**, with an emphasis on improvi
 > 🔖 Collaboration. Open to research collaborations on related research topics. Welcome to reach out!
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉🎉 My first-author paper is accepted to [EMNLP 2026](https://2026.emnlp.org/). See you in Budapest, Hungary!
+- *2026.08*: &nbsp;🎉🎉 My first-author paper is accepted to [EMNLP 2026](https://2026.emnlp.org/). See you in Budapest, Hungary!
 - *2026.05*: &nbsp;🎉🎉 Successfully passed my PhD defense! 🎓
 - *2026.04*: &nbsp;🎉🎉 My first-author paper is accepted to [ACL 2026](https://2026.aclweb.org/). See you in San Diego, USA!
 - *2025.11*: &nbsp;🎉🎉 One paper is accepted to [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/).
